@@ -1,0 +1,16 @@
+E:\Projekt Inżynieria\Projekt\Shop\bin\Debug\Shop.exe.config
+E:\Projekt Inżynieria\Projekt\Shop\bin\Debug\Shop.exe
+E:\Projekt Inżynieria\Projekt\Shop\bin\Debug\Shop.pdb
+E:\Projekt Inżynieria\Projekt\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+E:\Projekt Inżynieria\Projekt\Shop\obj\Debug\Shop.Properties.Resources.resources
+E:\Projekt Inżynieria\Projekt\Shop\obj\Debug\Shop.csproj.GenerateResource.cache
+E:\Projekt Inżynieria\Projekt\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+E:\Projekt Inżynieria\Projekt\Shop\obj\Debug\Shop.exe
+E:\Projekt Inżynieria\Projekt\Shop\obj\Debug\Shop.pdb
+E:\Projekt Inżynieria\Projekt\Shop\obj\Debug\Shop.Form1.resources
+E:\Projekt Inżynieria\Projekt\Shop\obj\Debug\Shop.Main.resources
+E:\Projekt Inżynieria\Projekt\Shop\obj\Debug\Shop.rejestracjaProduktu.resources
+E:\Projekt Inżynieria\Projekt\Shop\obj\Debug\Shop.Klient.resources
+E:\Projekt Inżynieria\Projekt\Shop\obj\Debug\Shop.Wypozyczalnia.resources
+E:\Projekt Inżynieria\Projekt\Shop\obj\Debug\Shop.Zwrot.resources
+E:\Projekt Inżynieria\Projekt\Shop\obj\Debug\Shop.MainUzytkownika.resources
